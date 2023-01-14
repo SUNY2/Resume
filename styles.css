@@ -1,18 +1,43 @@
-body
-{
-    background-color: style= #EAE0DA;
+body {
+    margin: 0%;
 }
-h1{
-    color: #66BFBF;
+header {
+    background-color: #A8D1D1;
+    border-style: solid;
 }
-h3{
-    color: #66BFBF;
+main {
+    background-color: #8DCBE6;
+    border-style: solid;
 }
-hr
-{
-    border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 5px;
-    width: 5%;
+footer {
+    background-color: #9DF1DF;
+    font-size: 20px;
+    border-style: solid;
+}
+
+
+.logo {
+    width: 300px; 
+    height: 180x;
+    float: right;
+    background-color: #A8D1D1;
+}
+
+.contact_page {
+    background-color: #8DCBE6;
+}
+
+
+
+h1 {
+    color: black;
+}
+
+h3 {
+    color: black;
+}
+
+ 
+p {
+    color:#13005A;
 }
